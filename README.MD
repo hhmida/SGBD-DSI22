@@ -1,5 +1,6 @@
 # Cours SGBD DSI22
 
+0. [Gestion des utilisateurs](<gestion users.pptx>)
 1. [Chapitre 1 : Introduction](chapitre.pdf)
 2. [Chapitre 2 : Organisation et stockage des données](<Chapitre 2 sgbd.pdf>)
     - [TD](TD-chapitre2.pdf)
