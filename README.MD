@@ -8,4 +8,4 @@
     - [DS](DS.pdf)
 3. [Chapitre 3 : Transactions et concurrence](Transactions_Concurrence.pdf) ![nouveau](https://img.shields.io/badge/-nouveau-red)
     - [TD](<TD2 SGBD.pdf>) ![nouveau](https://img.shields.io/badge/-nouveau-red)
-4. Chapitre 4 : Reprisge/e
+4. Chapitre 4 : Reprise après les pannes
